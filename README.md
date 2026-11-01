@@ -89,7 +89,7 @@ Frontend development, API integration, automated risk analysis, and result repor
 
 ## Project Structure
 
-`text
+```text
 Fake-Website-Detector/
 │
 ├── database/
